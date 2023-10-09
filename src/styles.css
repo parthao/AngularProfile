@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+@font-face {
+    font-family: 'Audiowide';
+    src: local('Audiowide'),
+         url('./assets/fonts/Audiowide-Regular.ttf') format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'SoleSans';
+    src: local('SoleSans'),
+         url('./assets/fonts/SoleSans-Regular.ttf') format('truetype');
+}

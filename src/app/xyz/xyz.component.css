@@ -1,0 +1,24 @@
+.mainTag{
+    font-family: Audiowide;
+    color: aliceblue;
+    font-weight: lighter;
+}
+.pageSize
+{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.navComp
+{
+    font-family: SoleSans;
+}
+
+.searchMe
+{
+    font-family: SoleSans;
+    border: 2px solid aliceblue;
+    border-radius: 30px;
+    background-color:rgba(0, 0, 0, 0);
+    color: aliceblue;
+    width: 33%;
+}

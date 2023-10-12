@@ -4,7 +4,7 @@
     background-color: aliceblue;
     border-top-left-radius:40px;
     border-top-right-radius:40px;
-    box-shadow: 10px 10px 10px 10px rgb(236, 255, 62);
+    box-shadow: rgba(239, 255, 10, 0.612) 0px 5px 15px;
 }
 
 
@@ -14,6 +14,7 @@
     margin-left: 10px;
     margin-right: 10px;
     bottom: 0px;
+    text-align: center;
 }
 /* .mainDiv
 {
@@ -29,7 +30,32 @@
     width: 300px;
     border-radius: 50%;
     margin-left: 16.9%;
-    background-color: black;
+    background-color:aliceblue;
     margin-top: -30%;
+    box-shadow: rgba(255, 71, 10, 0.612) 0px 5px 15px;
     
+}
+.cirImage
+{
+    position: relative;
+    height:260px;
+    width: 260px;
+    border-radius: 50%;
+    /* margin-left: 7%; */
+    margin-top: 6%;
+}
+
+.myName
+{
+    font-family: Audiowide;
+    margin-top: 70px;
+    font-size: 35px;
+    color:rgba(255, 0, 0, 0.673) ;
+}
+
+.myDesignation
+{
+    font-family: SoleSans;
+    font-size: 25px;
+    color:rgba(255, 0, 0, 0.673) ;
 }

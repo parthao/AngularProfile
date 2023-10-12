@@ -1,0 +1,35 @@
+.myBlock{
+    height: 450px;
+    width: 450px;
+    background-color: aliceblue;
+    border-top-left-radius:40px;
+    border-top-right-radius:40px;
+    box-shadow: 10px 10px 10px 10px rgb(236, 255, 62);
+}
+
+
+.position
+{
+    position: absolute;
+    margin-left: 10px;
+    margin-right: 10px;
+    bottom: 0px;
+}
+/* .mainDiv
+{
+    position: absolute;
+   bottom: 0;
+   
+} */
+
+.cirProfile
+{
+    position: relative;
+    height:300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 16.9%;
+    background-color: black;
+    margin-top: -30%;
+    
+}
